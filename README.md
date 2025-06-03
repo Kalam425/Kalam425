@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Kalam425
-- 👀 I’m interested in ... becoming a web developer, Software Engineer, and coding in general
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, Python, SQL, CyberSecurity, etc.
-- 💞️ I’m looking to collaborate on ...Web Development, any practice with coding
-- 📫 How to reach me ...
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... I love to draw pictures and play video games when I'm in the mood, so I'm interested in creating a website that can delve deeper into showing that.
+## 👋 Hi there, I'm Kaviul Alam
+
+🎓 Recent Computer Science graduate from Queens College  
+💻 Passionate about Web Development, Cybersecurity, and Software Engineering  
+📚 Currently learning: HTML, CSS, JavaScript, Python, SQL  
+🎯 Looking for opportunities in Web Dev, Frontend/Backend, Software Engineer, or Cybersecurity roles  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | Email: yourname@email.com
+
+### 🔧 Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+...
+
+### 🚀 Featured Projects
+- *Rock-Paper-Scissors* – A fun JavaScript game with UI.
+- *Landing Page* – A responsive web page using CSS Flexbox.
+- *odin-recipes* – A beginner-friendly HTML project from The Odin Project.
 
 <!---
 Kalam425/Kalam425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
